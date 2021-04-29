@@ -10,7 +10,7 @@ Paper title: A Privacy Attack on Multiple Dynamic Match-key based 
 Copyright 2020 Australian National University and others.
 All Rights reserved.
 
-See the file COPYING for the terms under which the computer program
+See the file LICENSE for the terms under which the computer program
 code and associated documentation in this package are licensed.
 
 08 February 2020.
