@@ -4,8 +4,8 @@ Frequency based privacy attack on Multiple Dynamic Match-key encoding for PPRL
 Anushka Vidanage, Thilina Ranbaduge, Peter Christen, and Sean Randall
 
 Paper title: A Privacy Attack on Multiple Dynamic Match-key based 
-             Privacy-Preserving Record Linkage
-
+             Privacy-Preserving Record Linkage\
+Paper URL: [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7893850/)
 
 Copyright 2020 Australian National University and others.
 All Rights reserved.
@@ -34,8 +34,8 @@ Running the attack program:
 
 To run the program, use the following command (with an example setting):
 
-  python pprl_match_key_freq_attack.py path-to-sensitive-database.csv.gz 
-         0 , True path-to-plain-text-database.csv.gz 0 , True 100 attack 
+  python pprl_match_key_freq_attack.py path-to-encode-dataset.csv.gz 
+         0 , True path-to-plaintext-dataset.csv.gz 0 , True 100 attack 
          7.0 comb main 20
 
 For moe details about the command line arguments see comments at the top of 
